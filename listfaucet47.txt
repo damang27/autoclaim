@@ -1,27 +1,13 @@
-#CUMCLAIM Multi Creepycoin
+Legit 100%
 
-DOGE=BCH=BLK=BTC=BTX DASH=ETH=LTC=PPC=XPM
+http://autoclaim.win/                   : 209000=300 sec DOGE
+http://dogecoinfast.000webhostapp.com/  : 1100=60 sec DOGE
+http://rocketfaucet.win/                : 300000=60 sec DOGE
+http://xdogefaucet.000webhostapp.com/   : 1100=60 sec DOGE
+http://venygana.000webhostapp.com/      : 55000=60 sec DOGE
+http://coinhub.win/                     : 30000=180 sec DOGE
 
-Install Termux:
-
-apt update && apt upgrade
-
-apt install wget
-
-apt install php
-
-cd autoclaim
-
-php autoclaim.php
-
-Install to Xenial Puppy Linux and all Distro: Pleas install Package PHP
-
-Xenial:
-
-cd autoclaim
-
-php7.0 autoclaim.php
-
-THX for All
+List Search By NoFace 47
+if you want to share,pleas write My Name
 
 Link asli https://github.com/noface47/cumclaim
